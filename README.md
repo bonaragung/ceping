@@ -1,2 +1,2 @@
-chmod +x ceping.sh
-./ceping <nama_file_
+1. chmod +x ceping.sh
+2. ./ceping <nama_file_
